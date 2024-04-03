@@ -6,6 +6,8 @@ I am based in the West Midlands, England.
 
 I use Arch Linux and Hyprland on my main computer.
 
+***
+
 ## My list:
 
 ### Stuff I know
