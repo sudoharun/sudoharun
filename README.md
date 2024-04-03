@@ -10,12 +10,12 @@ I use Arch Linux and Hyprland on my main computer.
 
 ## My list:
 
-### Stuff I know
+### Stuff I know:
 - [x] Python (ongoing)
 - [x] Bash (dropped)
 - [x] HTML and (S)CSS
 
-### Stuff I plan to learn
+### Stuff I plan to learn:
 - [ ] Lua
 - [ ] C++ (I know some basics)
 - [ ] Rust (I know some basics)
