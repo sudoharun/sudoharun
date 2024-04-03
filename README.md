@@ -27,4 +27,4 @@ I use Arch Linux and Hyprland on my main computer.
 
 ***
 
-![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoharun&show_icons=true&theme=radical)
+![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoharun&show_icons=true&theme=transparent)
