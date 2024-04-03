@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm Harun. I am currently studying Level 3 T-Level in Digital Production, Design and Development. I am based in the West Midlands, England.
+I'm Harun. I am currently studying Level 3 T-Level in Digital Production, Design and Development (Sep 2023 - May 2025). 
+
+I am based in the West Midlands, England.
 
 I use Arch Linux and Hyprland on my main computer.
 
