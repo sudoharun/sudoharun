@@ -11,16 +11,16 @@ I use Arch Linux and Hyprland on my main computer.
 - [x] Bash (dropped)
 - [x] HTML and (S)CSS
 
-***
-
 ### Stuff I plan to learn
-- [*] C++
-- [*] Rust
 - [ ] Lua
+- [ ] C++ (I know some basics)
+- [ ] Rust (I know some basics)
 - [ ] DBus
 - [ ] Unix Sockets
 - [ ] Nix
 - [ ] GTK
 - [ ] QT
+
+***
 
 ![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoharun&show_icons=true&theme=radical)
