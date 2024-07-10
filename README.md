@@ -4,7 +4,7 @@ I'm Harun. I am currently studying Level 3 T-Level in Digital Production, Design
 
 I am based in the West Midlands, England.
 
-I used Arch Linux and Hyprland on my main computer for a long time (about a year), but now I use Fedora with KDE Plasma.
+I used Arch Linux and Hyprland on my main computer for a long time (about a year), then Fedora with KDE Plasma, but now I use Arch Linux again with KDE Plasma.
 
 ***
 
