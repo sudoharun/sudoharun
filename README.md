@@ -11,7 +11,7 @@ I used Arch Linux and Hyprland on my main computer for a long time (about a year
 ## My list:
 
 ### Stuff I know:
-- [x] Python (ongoing)
+- [x] Python
 - [x] Bash (dropped)
 - [x] HTML and (S)CSS
 
