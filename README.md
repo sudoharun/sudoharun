@@ -4,7 +4,9 @@ I'm Harun. I am currently studying Level 3 T-Level in Digital Production, Design
 
 I am based in the West Midlands, England.
 
-I used Arch Linux and Hyprland on my main computer for a long time (about a year), then Fedora with KDE Plasma, but now I use Arch Linux again with KDE Plasma.
+I used Arch Linux and Hyprland on my main computer for a long time (about a year), then Fedora with KDE Plasma, but now I use Arch Linux again with Hyprland.
+
+Check out my ![Arch Linux + Hyprland dotfiles](https://github.com/sudoharun/dotfiles)!
 
 ***
 
@@ -15,7 +17,11 @@ I used Arch Linux and Hyprland on my main computer for a long time (about a year
 - [x] Bash (dropped)
 - [x] HTML and (S)CSS
 
+### Stuff I'm learning:
+- Django and Bootstrap
+
 ### Stuff I plan to learn:
+- [ ] Javascript
 - [ ] Lua
 - [ ] C++ (I know some basics)
 - [ ] Rust (I know some basics)
